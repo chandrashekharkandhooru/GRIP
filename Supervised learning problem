@@ -1,0 +1,7 @@
+# GRIP
+Tasks of The Sparks foundation
+Task2 :
+Predicting the scores for Number of hours study using Simple linear Regression
+X= Hours
+Y=Scores
+Y= m* X + C
